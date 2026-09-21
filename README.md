@@ -27,7 +27,6 @@
 | **GovWelfare AI** | An agentic pipeline (LangGraph + FastAPI) that matches citizens to relevant Gujarat/India welfare schemes and auto-drafts applications in English, Hindi, and Gujarati. |
 | **Enterprise Vendor Chargeback & Dispute Platform** | A zero-budget SaaS that audits vendor chargebacks by cross-checking POs and BOLs, then auto-generates dispute evidence — built with a 3-person student team, where I lead AI/ML & optimization. |
 
-> Replace the project names above with links to their repos once you've pushed them — happy to wire that up if you give me the repo URLs.
 
 ---
 
